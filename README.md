@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil
+ 
+meu nome e leonardo siva
 
-<!--
-**leonardosilvarogerio/leonardosilvarogerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estou estudando alura
+-estou me desenvolvendo na linguagem javascript
+-utilizo esse espaco para minha organizacao e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+## vcoe entrar em contato comigo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0001125097644sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/CdMowOhahv8AAAAM/sasuke.gif)
+
+
+
